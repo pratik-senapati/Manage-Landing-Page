@@ -1,0 +1,15 @@
+{
+  "name": "manage-landing-page",
+  "version": "1.0.0",
+  "description": "A landing page for Manage, showcases a use-case which I built with as much tailwind-css as possible.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
