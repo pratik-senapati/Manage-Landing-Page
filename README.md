@@ -1,2 +1,3 @@
 # Manage-Landing-Page
-A landing page for Manage, showcases a use-case which I built with as much tailwind-css as possible.
+A landing page for Manage to showcase my tailwind-css and responsive design skills.
+
